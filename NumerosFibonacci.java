@@ -7,7 +7,7 @@ public class NumerosFibonacci {
         do {
             Scanner leerDato=new Scanner(System.in);
             System.out.println("Suma de numeros fibonnaci menores a 400,000");
-            System.out.println("1 Presiona para ver la suma total de los numeros fibonacci pares");
+            System.out.println("1 Presiona para ver la suma total de los numeros fibonacci pares.");
             System.out.println("2 Salir");
             y = leerDato.nextInt();
             switch (y) {
