@@ -15,7 +15,7 @@ public class Login {
         do {
             System.out.println("\033[H\033[2J");
             System.out.flush();
-            System.out.println("BIENVENIDOS A LA TIENDA LA SUERTE");
+            System.out.println("BIENVENIDOS A LA TIENDA LA SUERTE.");
             // System.out.println("INGRESE SU NOMBRE:");
             // dato=leerDato.nextLine();
         
