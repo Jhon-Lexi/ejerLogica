@@ -41,10 +41,7 @@ public class NumerosFibonacci {
                x =x+a;
             }
             System.out.println(x);
-            // if(a%2==0 ){
-            //     System.out.println(a);
-
-            // }
+           
         }
         return a;
 
